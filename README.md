@@ -151,3 +151,7 @@ There are a number of scripts that carry out the main procedures reported in the
 - [`test_alphapower.m`](src/test_alphapower.m)  This script computes the significance and power of a given target distribution and generates a .mat file with them.
 - [`test_alphapowerfigures.m`](src/test_alphapowerfigures.m)   This script shows figures resulting from the data stored by test_alphapower.m.
 - [`test_detectregimes.m`](src/test_detectregimes.m)   This script scans all scenarios detecting regimes with the procedures of a given distribution, storing the results. It has also sections to show figures of those results.
+
+## 📄 License
+
+This dataset is released under [GNU General Public 3.0](LICENSE).
